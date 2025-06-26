@@ -1,5 +1,7 @@
 # Webpage Q&A with Ollama
 
+![Screenshot of the app](readme-screenshot.png)
+
 This project is a Streamlit web application that lets you:
 - Input a webpage URL
 - Parse and store the main content
