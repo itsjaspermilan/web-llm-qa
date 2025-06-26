@@ -1,0 +1,7 @@
+requests
+streamlit
+beautifulsoup4
+watchdog
+chromadb
+sentence-transformers
+torch
